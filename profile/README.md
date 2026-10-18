@@ -14,7 +14,7 @@
 - 캐릭터는 자동으로 이동하고, 플레이어는 서브·스윙 타이밍·샷·스킬 선택에 집중합니다.
 - 펌웨어, 프로토콜, PC Bluetooth, 게임, AI와 서버를 나누어 독립적으로 개발·검사합니다.
 
-실물 제품은 **NU40-DK + 별도 외장 IMU**를 사용합니다. 키보드 게임을 먼저 실행할 수 있으며, 무선 기기의 OS 본딩·메시지 왕복과 외장 IMU 실기 검증은 진행 중입니다. NU-54는 센서 없는 연결 시험용입니다. [현재 검증 범위](https://github.com/digital-tennis/digital-tennis-docs/blob/main/docs/project/controller-bonding.md)
+실물 제품은 **NU40-DK + 별도 외장 IMU**를 사용합니다. 키보드로 게임을 시작할 수 있습니다. 센서 없는 NU-54는 Mac 일반 게임 창에서 본딩·메시지 왕복·재시작 후 복구를 확인했습니다. NU40-DK 실물·외장 IMU와 Windows 검증은 남아 있습니다. [현재 검증 범위](https://github.com/digital-tennis/digital-tennis-game/blob/7af42a20b42975b21a41ab3f7055c6846fb510e9/docs/controller-bonding.md)
 
 ## 관심 있는 영역부터 시작하세요
 
